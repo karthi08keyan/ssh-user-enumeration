@@ -3,7 +3,7 @@
 # Date: 2018-08-20
 # Software: https://ftp4.usa.openbsd.org/pub/OpenBSD/OpenSSH/openssh-7.7.tar.gz
 # Affected Versions: OpenSSH version < 7.7
-# CVE: CVE-2018-15473
+# CVE: CVE-2018-15473  
 
 ###########################################################################
 #                ____                    _____ _____ _    _               #
